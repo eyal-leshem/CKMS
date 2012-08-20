@@ -1,0 +1,8 @@
+{
+	"agentServicePath":"C:/temp2/ready/agent/bin/service", 
+	"serverCaPath":"C:/temp2/temp4/abc.crt",
+	"instPassword":"a10097",
+	"serverRegAgentPath":"https://localhost/regAgent",
+	"serverChekTrustConectionPath":"https://localhost/chekTrust"
+	
+}

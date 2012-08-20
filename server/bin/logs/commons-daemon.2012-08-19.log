@@ -1,0 +1,24 @@
+[2012-08-19 11:28:14] [info]  Commons Daemon procrun (1.0.7.0 32-bit) started
+[2012-08-19 11:28:14] [info]  Service certDB name 
+[2012-08-19 11:28:14] [error] ???????? ????? ??? ????.
+[2012-08-19 11:28:14] [error] Failed installing 'certDB' service
+[2012-08-19 11:28:14] [error] ???????? ????? ??? ????.
+[2012-08-19 11:28:14] [error] Commons Daemon procrun failed with exit value: 7 (Failed to )
+[2012-08-19 11:28:14] [error] ???????? ????? ??? ????.
+[2012-08-19 11:28:19] [info]  Commons Daemon procrun (1.0.7.0 32-bit) started
+[2012-08-19 11:28:19] [info]  Running 'certDB' Service...
+[2012-08-19 11:28:19] [info]  Starting service...
+[2012-08-19 11:28:22] [info]  Service started in 3120 ms.
+[2012-08-19 16:02:16] [info]  Console SHUTDOWN event signaled
+[2012-08-19 16:02:16] [info]  Stopping service...
+[2012-08-19 23:39:50] [info]  Commons Daemon procrun (1.0.7.0 32-bit) started
+[2012-08-19 23:39:50] [info]  Service certDB name 
+[2012-08-19 23:39:50] [error] ???????? ????? ??? ????.
+[2012-08-19 23:39:50] [error] Failed installing 'certDB' service
+[2012-08-19 23:39:50] [error] ???????? ????? ??? ????.
+[2012-08-19 23:39:50] [error] Commons Daemon procrun failed with exit value: 7 (Failed to )
+[2012-08-19 23:39:50] [error] ???????? ????? ??? ????.
+[2012-08-19 23:39:54] [info]  Commons Daemon procrun (1.0.7.0 32-bit) started
+[2012-08-19 23:39:54] [info]  Running 'certDB' Service...
+[2012-08-19 23:39:54] [info]  Starting service...
+[2012-08-19 23:39:57] [info]  Service started in 3421 ms.
